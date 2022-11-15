@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sudarsjan Sinha
+- 👋 Hi, I’m Sudarshan Sinha
 - 👀 I’m interested in Python and its Frameworks
 - 🌱 I’m currently learning TastyPie
 - 💞️ I’m looking to collaborate on a personal Project.
